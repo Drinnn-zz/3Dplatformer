@@ -8,5 +8,5 @@ I've made this little game to follow along with the Zenva Academy Unity Mini-Deg
  - Enemies
  - Coin bob and pickup
  
- It's not a pretty project or something like that, is only for study pourpouses.
+ It's not a pretty project or something like that, is only for study pourposes.
  
